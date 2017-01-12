@@ -12,6 +12,7 @@ namespace Sample1
         {
             Console.WriteLine("Ich habe keine Frage! 1");
             Console.WriteLine("Ich habe keine Frage! 2");
+            Console.WriteLine("Ich habe keine Frage! 3");
         }
     }
 }
