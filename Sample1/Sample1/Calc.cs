@@ -11,7 +11,7 @@ namespace Sample1
 
         public void Add()
         {
-
+            Console.WriteLine("Add");
         }
 
 
