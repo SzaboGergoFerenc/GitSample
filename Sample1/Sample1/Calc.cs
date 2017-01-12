@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sample1
 {
-    class Calc
+    class Calc : ICalc
     {
 
         public void Add()
