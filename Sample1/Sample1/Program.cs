@@ -11,6 +11,7 @@ namespace Sample1
         static void Main(string[] args)
         {
             Console.WriteLine("Ich habe keine Frage! 1");
+            Console.WriteLine("Ich habe keine Frage! 2");
         }
     }
 }
