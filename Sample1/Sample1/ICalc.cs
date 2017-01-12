@@ -13,6 +13,8 @@ namespace Sample1
          void Div();
 
          void DivD();
+
+        void Mult();
  
     }
 }

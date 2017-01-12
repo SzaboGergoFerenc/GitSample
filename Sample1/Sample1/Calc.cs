@@ -24,5 +24,10 @@ namespace Sample1
         {
 
         }
+
+        public void Mult()
+        {
+            Console.WriteLine("Multi");
+        }
     }
 }
