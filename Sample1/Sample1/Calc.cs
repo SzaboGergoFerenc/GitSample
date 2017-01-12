@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Sample1
 {
-    class Calc
+    class Calc : ICalc
     {
 
         public void Add()
         {
-
+            Console.WriteLine("Add");
         }
 
 
@@ -24,6 +24,12 @@ namespace Sample1
         {
 
         }
+
+        public void Mult()
+        {
+            Console.WriteLine("Multi");
+        }
+
 
         public void DivByZero()
         {
